@@ -1,0 +1,2 @@
+# ReadEasy
+A chrome plugin
